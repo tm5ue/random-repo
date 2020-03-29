@@ -1,0 +1,290 @@
+[
+  {
+    "Sex": "Male",
+    "Age": "75+ years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": 291
+  },
+  {
+    "Sex": "Male",
+    "Age": "45-54 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 866
+  },
+  {
+    "Sex": "Male",
+    "Age": "55-64 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": "3,769"
+  },
+  {
+    "Sex": "Male",
+    "Age": "65-74 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 67
+  },
+  {
+    "Sex": "Female",
+    "Age": "55-64 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": "3,134"
+  },
+  {
+    "Sex": "Female",
+    "Age": "75+ years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 16
+  },
+  {
+    "Sex": "Male",
+    "Age": "15-24 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 182
+  },
+  {
+    "Sex": "Male",
+    "Age": "25-34 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 539
+  },
+  {
+    "Sex": "Female",
+    "Age": "Less than 15 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": 53
+  },
+  {
+    "Sex": "Female",
+    "Age": "25-34 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": "2,862"
+  },
+  {
+    "Sex": "Male",
+    "Age": "35-44 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": "5,717"
+  },
+  {
+    "Sex": "Male",
+    "Age": "Less than 15 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": 35
+  },
+  {
+    "Sex": "Male",
+    "Age": "25-34 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": "6,874"
+  },
+  {
+    "Sex": "Male",
+    "Age": "Less than 15 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 20
+  },
+  {
+    "Sex": "Female",
+    "Age": "65-74 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": 759
+  },
+  {
+    "Sex": "Male",
+    "Age": "55-64 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 870
+  },
+  {
+    "Sex": "Female",
+    "Age": "15-24 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 136
+  },
+  {
+    "Sex": "Female",
+    "Age": "15-24 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 93
+  },
+  {
+    "Sex": "Female",
+    "Age": "75+ years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": 385
+  },
+  {
+    "Sex": "Female",
+    "Age": "65-74 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 72
+  },
+  {
+    "Sex": "Male",
+    "Age": "55-64 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 359
+  },
+  {
+    "Sex": "Male",
+    "Age": "35-44 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 746
+  },
+  {
+    "Sex": "Female",
+    "Age": "45-54 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": "4,500"
+  },
+  {
+    "Sex": "Female",
+    "Age": "Less than 15 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 8
+  },
+  {
+    "Sex": "Female",
+    "Age": "25-34 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 244
+  },
+  {
+    "Sex": "Male",
+    "Age": "Less than 15 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 8
+  },
+  {
+    "Sex": "Female",
+    "Age": "55-64 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 152
+  },
+  {
+    "Sex": "Female",
+    "Age": "35-44 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 353
+  },
+  {
+    "Sex": "Female",
+    "Age": "45-54 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 539
+  },
+  {
+    "Sex": "Female",
+    "Age": "35-44 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 271
+  },
+  {
+    "Sex": "Male",
+    "Age": "25-34 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 770
+  },
+  {
+    "Sex": "Female",
+    "Age": "Less than 15 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 13
+  },
+  {
+    "Sex": "Female",
+    "Age": "75+ years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 16
+  },
+  {
+    "Sex": "Male",
+    "Age": "75+ years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 17
+  },
+  {
+    "Sex": "Female",
+    "Age": "65-74 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 36
+  },
+  {
+    "Sex": "Male",
+    "Age": "65-74 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": 790
+  },
+  {
+    "Sex": "Female",
+    "Age": "55-64 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 362
+  },
+  {
+    "Sex": "Female",
+    "Age": "25-34 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 235
+  },
+  {
+    "Sex": "Male",
+    "Age": "75+ years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 26
+  },
+  {
+    "Sex": "Male",
+    "Age": "35-44 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 676
+  },
+  {
+    "Sex": "Male",
+    "Age": "15-24 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": "2,323"
+  },
+  {
+    "Sex": "Male",
+    "Age": "65-74 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic Black",
+    "Deaths": 199
+  },
+  {
+    "Sex": "Male",
+    "Age": "45-54 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": "5,801"
+  },
+  {
+    "Sex": "Male",
+    "Age": "45-54 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 624
+  },
+  {
+    "Sex": "Female",
+    "Age": "15-24 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": 978
+  },
+  {
+    "Sex": "Female",
+    "Age": "35-44 years",
+    "Race_and_Hispanic_Origin": "Non-Hispanic White",
+    "Deaths": "3,446"
+  },
+  {
+    "Sex": "Male",
+    "Age": "15-24 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 382
+  },
+  {
+    "Sex": "Female",
+    "Age": "45-54 years",
+    "Race_and_Hispanic_Origin": "Hispanic",
+    "Deaths": 290
+  }
+]
